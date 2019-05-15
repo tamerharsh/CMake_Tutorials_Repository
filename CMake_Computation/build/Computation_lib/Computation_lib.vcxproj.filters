@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CmakeTutorials\CMake_Computation\Computation_lib\src\computation_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\CmakeTutorials\CMake_Computation\Computation_lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F356EDCB-A2A9-34AD-9115-CA7F5DE7028D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

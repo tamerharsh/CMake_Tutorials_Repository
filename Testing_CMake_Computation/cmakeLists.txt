@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.4)
+project(imported_lib_testing)
+
+set(CMAKE_LIBRARY_PATH "F:/CMake_Tutorials/CMake_Computation")
+
+find_library(Computation_lib )
+if(CMake_Computation_FOUND)
+ message(STATUS "BHAI MIL GAI LIB")
+include_directories(CMake_Computation/include) 
+ #add_executable(Testing_CMake_Computation example.cpp)
+ #add_executable(Testing_CMake_Computation CMAKE_Computation IMPORTED) 
+ 
+ endif()

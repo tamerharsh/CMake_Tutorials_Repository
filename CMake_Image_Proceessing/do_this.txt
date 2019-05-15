@@ -1,0 +1,16 @@
+set this in path of system advanced setting to directly detect opencv downloaded in download folder 
+
+enviornment variables --> system path--> Path 
+
+C:\Users\intamaha\Downloads\opencv\build\x64\vc15\bin
+
+(This can be done via CL set(ENV  PATH "<path_name>" )please confirm this.)
+
+
+
+build 
+==========
+mkdir build 
+cd build 
+cmake -Ax64 -L ..
+====================

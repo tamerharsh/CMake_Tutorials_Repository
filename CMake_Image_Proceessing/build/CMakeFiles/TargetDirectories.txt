@@ -1,0 +1,3 @@
+F:/CmakeTutorials/CMake_Image_Proceessing/build/CMakeFiles/CMake_Image_Proceessing.dir
+F:/CmakeTutorials/CMake_Image_Proceessing/build/CMakeFiles/ALL_BUILD.dir
+F:/CmakeTutorials/CMake_Image_Proceessing/build/CMakeFiles/ZERO_CHECK.dir

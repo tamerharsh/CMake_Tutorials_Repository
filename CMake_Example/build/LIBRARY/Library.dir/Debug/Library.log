@@ -1,0 +1,4 @@
+﻿  Building Custom Rule F:/CmakeTutorials/CMake_Example/LIBRARY/CMakeLists.txt
+  CMake does not need to re-run because F:/CmakeTutorials/CMake_Example/build/LIBRARY/CMakeFiles/generate.stamp is up-to-date.
+  calculator.cpp
+  Library.vcxproj -> F:\CmakeTutorials\CMake_Example\build\LIBRARY\Debug\Library.lib

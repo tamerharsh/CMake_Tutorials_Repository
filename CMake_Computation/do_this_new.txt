@@ -1,0 +1,33 @@
+Following are the steps to run the code
+
+Step 1
+=======
+In the directory CMake_Computation
+create a build directory 
+----------
+Command
+----------
+mkdir build 
+cd build 
+
+=======
+Step 2
+=======
+
+cmake -Ax64 -L -DCMAKE_BUILD_TYPE=RELEASE ..
+CMAKE --build . --clean-first --config Release --target INSTALL
+
+
+========
+Note
+=========
+1. In step 2
+-Ax64 	  		for x64 architecture /platform 
+-L 	  			for diplays all the cache variables 
+--clean first 		for cleaning the previous build
+--config Release 	for setting Configuration mode to Release
+--target INSTALL  	for getting .exe , .h file in a desired directory.
+2. 
+If you get error , one possibility could be cmake_install_prefix in CMakeLists.txt
+
+

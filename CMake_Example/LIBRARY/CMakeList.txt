@@ -1,0 +1,11 @@
+add_library (Library 
+
+  calculator.h
+
+  calculator.cpp)
+
+
+
+install (TARGETS Library DESTINATION Desti)
+
+install (FILES Calculator.h DESTINATION include)

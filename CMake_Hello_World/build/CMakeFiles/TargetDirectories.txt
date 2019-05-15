@@ -1,0 +1,4 @@
+F:/CmakeTutorials/CMake_Hello_World/build/CMakeFiles/INSTALL.dir
+F:/CmakeTutorials/CMake_Hello_World/build/CMakeFiles/CMake_Hello_World.dir
+F:/CmakeTutorials/CMake_Hello_World/build/CMakeFiles/ALL_BUILD.dir
+F:/CmakeTutorials/CMake_Hello_World/build/CMakeFiles/ZERO_CHECK.dir

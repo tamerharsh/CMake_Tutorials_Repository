@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  Generating Code...
+     Creating library F:\CmakeTutorials\MathLibrary\Debug\MathLibrary.lib and object F:\CmakeTutorials\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> F:\CmakeTutorials\MathLibrary\Debug\MathLibrary.dll

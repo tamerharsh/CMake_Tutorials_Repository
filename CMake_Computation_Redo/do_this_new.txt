@@ -1,0 +1,5 @@
+===
+new one 
+
+cmake -Ax64 -L -DCMAKE_BUILD_TYPE=RELEASE
+CMAKE --build . --clean-first --config Release --target INSTALL

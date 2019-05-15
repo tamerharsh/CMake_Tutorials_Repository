@@ -1,0 +1,3 @@
+F:/CmakeTutorials/CMake_Example/bin/CMake_Example.exe
+F:/CmakeTutorials/CMake_Example/lib/Library.lib
+F:/CmakeTutorials/CMake_Example/include/calculator.h

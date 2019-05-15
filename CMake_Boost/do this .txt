@@ -1,0 +1,14 @@
+for
+ BUILDING ALONG WITH BOOST LIBRARAY AND 
+SETTING FINAL INSTALL PATH FOR GENERATED BIN FILES.
+
+build>>cmake -Ax64  -DBoost_INCLUDE_DIR="C:\local\boost_1_64_0" -DBOOST_LIBRARYDIR="C:\local\boost_1_64_0" -DCMAKE_INSTALL_PREFIX="F:\CMake_Tutorials\CMake_Boost" ..
+
+
+build>> cmake --build . --config Release 
+
+#for install
+
+build>>
+
+
